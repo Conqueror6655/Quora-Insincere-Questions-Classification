@@ -1,0 +1,4 @@
+# Quora-Insincere-Questions-Classification
+Big Data Project-1 from my course at University of Adelaide
+
+The purpose of this project is to classify the questions asked on Quora to be sincere or insincere. What is Quora? Quora is an online platform where a person can learn from other’s experience. On Quora people can ask different types of questions and connect with different contributors who provide different insights and solutions/answers. But the main problem is to weed out insincere questions. So what are insincere questions? So the questions that have rhetorical nature, that suggest a discriminating idea about a group of people or particular society, or questions that may hurts someone’s religious beliefs, cultural values or political standpoints. Questions that contains false information or preposterous assumptions or sexual content are also classified as insincere questions.
